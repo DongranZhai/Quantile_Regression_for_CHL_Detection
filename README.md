@@ -1,4 +1,6 @@
 # Quantile_Regression_for_CHL_Detection
+[![DOI](https://zenodo.org/badge/615045673.svg)](https://zenodo.org/badge/latestdoi/615045673)
+
 Detecting long-term trends in the extremes and variability of global and regional ocean chlorophyll concentrations using quantile regression model
 
 Usage:
